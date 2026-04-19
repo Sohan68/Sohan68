@@ -1,23 +1,100 @@
-<h1 align="center">Hey 👋 This is Sohan</h1>
-<h3 align="center">I’m currently working with React, Node.js, Next.js 🔭 I’m learning now MongoDB</h3>
+<!--- banner --->
+<img src="./banner.png" alt="Banner">
 
-- 🌱 I’m currently learning **MongoDB**
+<h1 align="center">Hey 👋, It's Sajid</h1>
+<h3 align="center">Passionate about MERN Stack Development.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sohan68](https://github.com/sohan68)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always,+learning!;Always+improving!&center=true&size=30">
+  </a>
+</h1>
 
-- 💬 Ask me about **JavaScript , react , Node.js**
-
+- 🌱 I’m currently working with **React, Node.js, Next.js**
+- 🔭 I’m learning now **MongoDB**
+- 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 How to reach me **sohantalukder3600@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/Sohan68**
+
+## ⭐ Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+  </a>
+</p>
+
+---
+
+## ⚡ Technologies & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss" />
+  </a>
+</p>
+
+---
+
+## 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode" />
+  </a>
+</p>
+
+---
+
+## 🚀 Deployment
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <div>
+    <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" />
+    &nbsp;&nbsp;&nbsp;
+    <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight" />
+  </div>
+
+  <br/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan68&layout=compact&theme=tokyonight" />
+</div>
+
+<br/>
+<br/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan68&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd"
+  width="100%" 
+/>
+
+<div align="center">
+  ![snake gif](https://github.com/Sohan68/Sohan68/blob/output/github-snake-dark.svg)
+</div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sohan_talukder2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohan_talukder2" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sohan.talukder.6888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sohan.talukder.6888" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/md.sohan.talukder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md.sohan.talukder/" height="30" width="40" /></a>
+<a href="mailto:sohantalukder3600@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;
+<a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
+<a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sohan68&label=Profile%20views&color=0e75b6&style=flat" />
+</p>

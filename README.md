@@ -85,7 +85,7 @@
 />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=140&section=footer&animation=twinkling"/>
 </div>
 
 ---

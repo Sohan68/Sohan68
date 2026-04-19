@@ -84,9 +84,6 @@
   width="100%" 
 />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=140&section=footer&animation=twinkling"/>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>

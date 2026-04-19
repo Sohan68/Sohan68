@@ -85,7 +85,7 @@
 />
 
 <div align="center">
-  ![snake gif](https://github.com/Sohan68/Sohan68/blob/output/github-snake-dark.svg)
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
 </div>
 
 ---

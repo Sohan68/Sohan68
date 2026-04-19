@@ -1,5 +1,6 @@
-<img width="1028" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/27f17c42-8fe0-4c9d-9167-e4dcf8a72c69" /><!--- banner --->
-<img src="./github-header-banner.png" alt="Banner">
+<!--- banner --->
+<img width="1028" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/27f17c42-8fe0-4c9d-9167-e4dcf8a72c69" />
+
 
 <h1 align="center">Hey 👋, It's Sohan</h1>
 <h3 align="center">Now, I'm working Frontend Development.</h3>

@@ -92,7 +92,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:sohantalukder3600@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;
+<a href="mailto:devsohan25@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;
 <a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
 <a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>

@@ -15,7 +15,7 @@
 - 🌱 I’m currently working with **React, Node.js, Next.js**
 - 🔭 I’m learning now **MongoDB**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me **sohantalukder3600@gmail.com**
+- 📫 How to reach me **devsohan25@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Sohan68**
 
 ## ⭐ Languages

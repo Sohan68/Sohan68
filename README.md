@@ -93,11 +93,10 @@
 <p align="left">
 <a href="mailto:devsohan25@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;
 <a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
-<a href="https://facebook.com/sohan.talukder68" target="blank"><img src="https://skillicons.dev/icons?i=facebook" /></a> &nbsp;
+<a href="https://facebook.com/sohan.talukder68" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+</a> &nbsp;
 <a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://t.me/sohan68" target="blank">
-  <img src="https://skillicons.dev/icons?i=telegram" />
-</a>
 </p>
 
 <p align="center">

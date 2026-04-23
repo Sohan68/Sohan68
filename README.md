@@ -95,6 +95,9 @@
 <a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
 <a href="https://facebook.com/sohan.talukder68" target="blank"><img src="https://skillicons.dev/icons?i=facebook" /></a> &nbsp;
 <a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://t.me/sohan68" target="blank">
+  <img src="https://skillicons.dev/icons?i=telegram" />
+</a>
 </p>
 
 <p align="center">

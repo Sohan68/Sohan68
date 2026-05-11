@@ -65,14 +65,17 @@
 ## 📊 GitHub Stats
 <div align="center">
   <div>
-    <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" />
-    &nbsp;&nbsp;&nbsp;
-    <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight" />
+    <img height="170" width="400"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" />
+
+    <img height="170" width="400"
+      src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   </div>
 
   <br/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan68&layout=compact&theme=tokyonight" />
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan68&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
 </div>
 
 <br/>
@@ -83,11 +86,10 @@
   width="100%" 
 />
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </div>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

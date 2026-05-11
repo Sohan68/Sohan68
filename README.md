@@ -64,14 +64,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp; 
-  <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight" /> 
-</div> 
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan68&layout=compact&theme=tokyonight" /> 
+  <div>
+    <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" /> 
+    &nbsp;&nbsp;&nbsp; 
+    <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight" /> 
+  </div>
+  <br/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan68&layout=compact&theme=tokyonight" />
 </div>
-
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan68&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd"
   width="100%" 

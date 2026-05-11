@@ -63,7 +63,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div>
+<div align="center">
   <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan68&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp; 
   <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=Sohan68&show_icons=true&theme=tokyonight" /> 

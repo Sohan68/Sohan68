@@ -1,5 +1,4 @@
 <!--- banner --->
-
 <img width="1028" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ed70f9af-0171-4e28-9303-ef9d0bc09251" />
 
 <h1 align="center">Hey 👋, It's Sohan</h1>
